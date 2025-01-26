@@ -29,7 +29,7 @@ Escribe los nombres de tus amigos y haz click en el botón "Añadir" para agrega
 
 ## Challange 
 
-El Challenge Amigo secreto es un proyecto y una de las muchas oportunidades de aprendizaje práctico que ofrece el programa **ONE - Oracle Next Education**.
+El Challenge Amigo Secreto es un proyecto y una de las muchas oportunidades de aprendizaje práctico que ofrece el programa **ONE - Oracle Next Education**.
 
 ## Desarrollador del proyecto
 
