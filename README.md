@@ -2,7 +2,7 @@
 
 ## Descripción 
 
-*Aplicación web que permite a los usuarios crear una lista con nombres para realizar un sorteo aleatorio para determinar un "amigo secreto". Es una herramienta sencilla para organizar el juego del amigo secreto.<br>
+Aplicación web que permite a los usuarios crear una lista con nombres para realizar un sorteo aleatorio para determinar un "amigo secreto". Es una herramienta sencilla para organizar el juego del amigo secreto.
 
 ## Imagen del proyecto
 
