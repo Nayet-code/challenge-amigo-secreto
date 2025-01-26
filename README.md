@@ -6,7 +6,8 @@ Aplicación web que permite a los usuarios crear una lista con nombres para real
 
 ## Imagen del proyecto
 
-![Vista previa de la aplicación](https://nayet-code.github.io/challenge-amigo-secreto/)
+![amigosecreto](https://github.com/user-attachments/assets/b8cefe7c-7e64-48e2-989f-023837a8331c)
+
 
 ## Funcionalidades principales
 
